@@ -53,19 +53,9 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;">
 </p>
+<br>
 
-
- ###  What i do
-
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
+ #
 
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
