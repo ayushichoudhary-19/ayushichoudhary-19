@@ -22,7 +22,7 @@
  
   <h3>I’m interested in Coding, Web Designing and Development.</h3>
 </p>
-- 🌱 I’m currently Data Structure and Algorithms and ReactJS.
+- I’m currently Data Structure and Algorithms and ReactJS.
 
 - To know more about me, you can check out my Personal Portfolio - https://github.com/ayushichoudhary-19/myportfolio
 
