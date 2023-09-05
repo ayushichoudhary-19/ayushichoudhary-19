@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <span style="color: blue;">Ayushi</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-
+<div align=center>
 <p align='center'>
    <a href="[https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/](https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
@@ -45,15 +45,18 @@
 
  
 ### - Languages and Tools...
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript (JS)" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" style="margin: 10px;">
+</p>
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-![Firebase Logo](https://img.icons8.com/color/48/000000/firebase.png)
-
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;">
 </p>
 
 
@@ -81,4 +84,4 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
+</div>
