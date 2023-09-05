@@ -28,14 +28,15 @@
 
 <br>
 <p align="center">
-   
+
+<div align=center>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushichoudhary-19&theme=light&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-</p>
+</div>
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=ayushichoudhary-19&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=ayushichoudhary-19&&show_icons=true&theme=light"/>
   </a>
 
 </p>
@@ -43,8 +44,10 @@
 <br />
 
 
-
+ <div align=center>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19)](https://github.com/ayushichoudhary-19/github-readme-stats)
+</div>
 
  
 ### - Languages and Tools...
