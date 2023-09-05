@@ -1,12 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Ayushi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19)](https://github.com/ayushichoudhary-19/github-readme-stats)
-
 
 <p align='center'>
    <a href="[https://www.linkedin.com/in/hemant-j-85518a195/](https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -42,6 +36,11 @@
 
 <br />
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19)](https://github.com/ayushichoudhary-19/github-readme-stats)
+
+ 
 ### - Languages and Tools...
 
 <p align="center">
