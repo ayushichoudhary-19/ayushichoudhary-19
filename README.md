@@ -52,7 +52,8 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/firebase.svg" alt="firebase" style="vertical-align:top; margin:4px">
+![Firebase Logo](https://img.icons8.com/color/48/000000/firebase.png)
+
 </p>
 
 
