@@ -16,9 +16,10 @@
   <h4>⚡ I’m interested in Coding, Web Designing and Development. ⚡</h4>
 </p> 
 
-- I’m currently Data Structure and Algorithms and ReactJS.
-
-- To know more about me, you can check out my Personal Portfolio - https://github.com/ayushichoudhary-19/myportfolio
+<p>Hello, I'm a Frontend Developer 🚀 and Computer Science student at IGDTUW 📚. I'm on my journey to become a skilled Software Developer ⚙️. I'm passionate about Anime 🎮 and love sharing updates about my work, thoughts, and experiences. Let's connect and explore the world of technology together!
+   
+🔗 To know more about me, you can check out my Personal Portfolio - https://github.com/ayushichoudhary-19/myportfolio
+</p>
 
 
 <br>
