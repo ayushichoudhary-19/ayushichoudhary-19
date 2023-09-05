@@ -6,19 +6,9 @@
    <a href="[https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/](https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-
-
 <div align="center">
 <h3> 👩‍💻 Ayushi Choudhary | 💻 Front End Developer | 🛸 India  </h3>
 </div>
-
-
-
-<p align="center">
-  <a href="https://twitter.com/geekyAyushi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_geekyAyushi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@geekyAyushi"></a>
-
- </p>
- 
 
  
   <h3>I’m interested in Coding, Web Designing and Development.</h3>
