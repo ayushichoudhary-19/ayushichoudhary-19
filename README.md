@@ -74,6 +74,9 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayushichoudhary-19)
+
 <p align="center">Made with ❤️ in India</p>
 
 
