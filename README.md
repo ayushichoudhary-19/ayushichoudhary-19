@@ -15,7 +15,7 @@
 
 
 <p align="center">
-   <a href="[https://twitter.com/_hemant_joshi](https://twitter.com/geekyAyushi)"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
+   <a href="[[https://twitter.com/_hemant_joshi](https://twitter.com/geekyAyushi)](https://twitter.com/geekyAyushi)"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_geekyAyushi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@geekyAyushi"></a>
  </p>
  
 
