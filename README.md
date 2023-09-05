@@ -4,7 +4,7 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-- 👀 I’m interested in Coding, Web Designing and Development.
+- 👀 
 - 🌱 I’m currently learning Front-End Webdevelopment, Data Structure and Algorithms.
 - 📫 Reach me on Linkdin: https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/
 - To know more about me, you can check out my Personal Portfolio - https://github.com/ayushichoudhary-19/myportfolio
@@ -40,7 +40,7 @@
  </p>
  
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>⚡️I’m interested in Coding, Web Designing and Development⚡️</i>
   </h5>
  
  
