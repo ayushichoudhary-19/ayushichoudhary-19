@@ -25,6 +25,7 @@
 - I’m currently Data Structure and Algorithms and ReactJS.
 - To know more about me, you can check out my Personal Portfolio - https://github.com/ayushichoudhary-19/myportfolio
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
