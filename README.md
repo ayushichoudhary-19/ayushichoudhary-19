@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 <p align='center'>
-   <a href="[https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/](https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="[https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/](https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/)"></a><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">&nbsp;&nbsp;
     <a href="[https://twitter.com/geekyAyushi](https://twitter.com/geekyAyushi)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
 </p>
    
