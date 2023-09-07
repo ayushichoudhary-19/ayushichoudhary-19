@@ -23,9 +23,9 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushichoudhary-19&theme=light&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width: 48%;">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushichoudhary-19&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width: 51%;">
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19&layout=compact&theme=light&count_private=true" style="width: 41%;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19&layout=compact&theme=dark&count_private=true" style="width: 43%;">
 </div>
 
 <br>
