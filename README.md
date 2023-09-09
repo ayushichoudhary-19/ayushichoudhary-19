@@ -36,10 +36,10 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 
 <br>
 
-#### 🔨 Check out my recent pull request
+### 🔨 Check out my recent pull request
 - [Fixed Navbar Responsiveness](https://github.com/sarmadhamdani02/WebGames/pull/81) on [WebGames](https://github.com/sarmadhamdani02/WebGames)
 
-#### 🚀  Check out my projects
+### 🚀  Check out my projects
 
 - [ayushichoudhary-19/WebSummarizer](https://github.com/ayushichoudhary-19/WebSummarizer) - 🌐 A Chrome Extension
 - [ayushichoudhary-19/parallaxdining](https://github.com/ayushichoudhary-19/parallaxdining.github.io) - 🍔 A Dynamic Restaurant Wesbtite
@@ -62,18 +62,18 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 </p>
 <br>
 
-#### 🌱 Project I am currently working on
+### 🌱 Project I am currently working on
 
 - [ayushichoudhary-19/soulnect-mental-health-website](https://github.com/ayushichoudhary-19/soulnect-mental-health-website) - 💗 A Mental Health Web Application
 
 <br>
 
-#### 📫 Love what I do? 
+### 📫 Love what I do? 
 <a href="https://liberapay.com/ayushichoudhary/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
 
 <br>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share them with friends!</p>
 
 
 </p>
