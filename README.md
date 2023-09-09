@@ -69,7 +69,7 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 <br>
 
 #### 📫 Love what I do? 
-<a href="(https://liberapay.com/ayushichoudhary/donate)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
+<a href="https://liberapay.com/ayushichoudhary/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
 
 <br>
 
