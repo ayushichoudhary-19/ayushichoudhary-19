@@ -30,7 +30,7 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 </div>
 
 <div align="center">
-<p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/ayushichoudhary-19/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
+<p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/ayushichoudhary-19/repos?time_range=one_year&loc_metric=changed&theme=dark" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
 </div>
 
 
