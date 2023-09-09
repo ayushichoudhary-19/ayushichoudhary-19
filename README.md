@@ -1,3 +1,4 @@
+
 <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/ayushichoudhary-19/">Ayushi</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
@@ -28,7 +29,15 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19&layout=compact&theme=dark&count_private=true" style="width: 43%;">
 </div>
 
+<div align="center">
+<p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/ayushichoudhary-19/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
+</div>
+
+
 <br>
+
+#### 🔨 Check out my recent pull request
+- [Fixed Navbar Responsiveness](https://github.com/sarmadhamdani02/WebGames/pull/81) on [WebGames](https://github.com/sarmadhamdani02/WebGames)
 
 #### 🚀  Check out my projects
 
@@ -39,7 +48,7 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 - [ayushichoudhary-19/TaranganaWebsite](https://github.com/ayushichoudhary-19/TaranganaWebsite) - 🎪 College's Fest Website (only a front end project)
 - [ayushichoudhary-19/finivesta-demo](https://github.com/ayushichoudhary-19/finivesta-demo) - 🏛️ A College Society Website
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin: 10px;">
@@ -58,9 +67,15 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 - [ayushichoudhary-19/soulnect-mental-health-website](https://github.com/ayushichoudhary-19/soulnect-mental-health-website) - 💗 A Mental Health Web Application
 
 <br>
+
+#### 📫 Love what I do? 
+<a href="(https://liberapay.com/ayushichoudhary/donate)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
+
 <br>
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+
+
 </p>
 <div align="center">
    
