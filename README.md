@@ -69,7 +69,3 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 </div>
 
 <p align="center">Made with ❤️ in India</p>
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
