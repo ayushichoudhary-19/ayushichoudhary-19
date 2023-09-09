@@ -1,4 +1,5 @@
 
+
 <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/ayushichoudhary-19/">Ayushi</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
@@ -33,6 +34,7 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 <p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/ayushichoudhary-19/repos?time_range=one_year&loc_metric=changed&theme=dark" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushichoudhary-19&bg_color=121212&color=a5fdee&line=ff3385&point=9fff85&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
