@@ -73,7 +73,7 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 ### New to Open Source? 
 #### Check out the below repository:
 <p> 
-   <a href="https://github.com/ayushichoudhary-19/LearnReact"></a>
+   <a href="https://github.com/ayushichoudhary-19/LearnReact">Learn React With Ayushi</a>
       Fork the project and add any resources which you find relevant and raise a pull request.
       Also give it a star and make it reach to more contributors and learners of React.
 </p>
