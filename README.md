@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-   <h3> 👩‍💻 Computer Science Student | 💻 Front End Developer | 🛸 India  </h3>
+   <h3> 👩‍💻 Computer Science Student | 💻 Front End Developer | UI/UX | 🛸 India  </h3>
    <h4>⚡ I’m interested in Coding, Web Designing and Development. ⚡</h4>
 </div>
 
