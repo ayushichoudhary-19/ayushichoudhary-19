@@ -77,10 +77,11 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
       Fork the project and add any resources which you find relevant and raise a pull request.
       Also give it a star and make it reach to more contributors and learners of React.
 </p>
-
+<div align="center">
+   
 ### 📫 Love what I do? 
-<a href="https://liberapay.com/ayushichoudhary/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
-
+<a href="https://liberapay.com/ayushichoudhary/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150" ></a>
+</div>
 <br>
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share them with friends!</p>
@@ -89,8 +90,9 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 </p>
 <div align="center">
    
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayushichoudhary-19)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayushichoudhary-19&left_color=Purple&right_color=#e754808)
 
+                
 </div>
 
 <p align="center">Made with ❤️ in India</p>
