@@ -38,8 +38,10 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 
 <br>
 
-### 🔨 Check out my recent pull request
+### 🔨 Check out my recent pull requests
 - [Fixed Navbar Responsiveness](https://github.com/sarmadhamdani02/WebGames/pull/81) on [WebGames](https://github.com/sarmadhamdani02/WebGames)
+- [Added animated Number Counter for metrics on landing page](https://github.com/warmachine028/nike/pull/52) on [Warmachine028-Nike](https://github.com/warmachine028/nike)
+- [Fixed inconsistency in appearance of input field](https://github.com/warmachine028/nike/pull/51) on [Warmachine028-Nike](https://github.com/warmachine028/nike)
 
 ### 🚀  Check out my projects
 
@@ -70,13 +72,6 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 
 <br>
 
-### New to Open Source? 
-#### Check out the below repository:
-<p> 
-   <a href="https://github.com/ayushichoudhary-19/LearnReact">Learn React With Ayushi</a>
-      Fork the project and add any resources which you find relevant and raise a pull request.
-      Also give it a star and make it reach to more contributors and learners of React.
-</p>
 <div align="center">
    
 ### 📫 Love what I do? 
