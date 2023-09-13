@@ -79,7 +79,7 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 </div>
 <br>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share them with friends!</p>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share them!/p>
 
 
 </p>
