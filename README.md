@@ -25,16 +25,18 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushichoudhary-19&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width: 51%;">
+   
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushichoudhary-19&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width: 51%;"/>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19&layout=compact&theme=dark&count_private=true" style="width: 43%;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19&layout=compact&theme=dark&count_private=true" style="width: 43%;"/>
 </div>
 
 <div align="center">
-<p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/ayushichoudhary-19/repos?time_range=one_year&loc_metric=changed&theme=dark" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
-</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushichoudhary-19&bg_color=121212&color=a5fdee&line=ff3385&point=9fff85&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   <img src="https://github-readme-stats.vercel.app/api?username=ayushichoudhary-19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width:51%"/>
+   
+ 
+</div>
 
 <br>
 
