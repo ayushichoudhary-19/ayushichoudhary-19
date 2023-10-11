@@ -74,10 +74,6 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 </p>
 <br>
 
-### 🌱 Project I am currently working on
-
-- [ayushichoudhary-19/soulnect-mental-health-website](https://github.com/ayushichoudhary-19/soulnect-mental-health-website) - 💗 A Mental Health Web Application
-
 <br>
 
 <div align="center">
