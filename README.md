@@ -84,10 +84,8 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 </div>
 <br>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share them!/p>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share them!</p>
 
-
-</p>
 <div align="center">
    
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayushichoudhary-19&left_color=Purple&right_color=#e754808)
