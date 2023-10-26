@@ -15,6 +15,7 @@
 </div>
 
 <br>
+<br>
 
 <p>
 Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTUW 📚. I'm on my journey to become a skilled Software Developer ⚙️. I'm passionate about Anime 🎮 and love sharing updates about my work, thoughts, and experiences. Let's connect and explore the world of technology together!
