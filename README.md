@@ -1,5 +1,3 @@
-
-
 <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/ayushichoudhary-19/">Ayushi</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
@@ -54,13 +52,13 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 - [Added a Close icon on navbar for better UX, made links functional][Enhancement/🐛 Bug](https://github.com/marshadkhn/TinDog/pull/14) on [TinDog](https://github.com/marshadkhn/TinDog)
 
 ### 🚀  Check out my projects
-
 - [ayushichoudhary-19/WebSummarizer](https://github.com/ayushichoudhary-19/WebSummarizer) - 🌐 A Chrome Extension
 - [ayushichoudhary-19/parallaxdining](https://github.com/ayushichoudhary-19/parallaxdining.github.io) - 🍔 A Dynamic Restaurant Wesbtite
 - [ayushichoudhary-19/myportfolio](https://github.com/ayushichoudhary-19/myportfolio) - 👀 My Personal Portfoliio
 - [ayushichoudhary-19/SudokuSolver](https://github.com/ayushichoudhary-19/SudokuSolver)- 🧩 Sudoku Solver using Backtracking Alogrithm
 - [ayushichoudhary-19/TaranganaWebsite](https://github.com/ayushichoudhary-19/TaranganaWebsite) - 🎪 College's Fest Website (only a front end project)
 - [ayushichoudhary-19/finivesta-demo](https://github.com/ayushichoudhary-19/finivesta-demo) - 🏛️ A College Society Website
+- [ayushichoudhary-19/PassCipher](https://github.com/ayushichoudhary-19/PassCipher/) - First React Project Nov'23
 
 ### 🛠️ Languages and Tools
 
