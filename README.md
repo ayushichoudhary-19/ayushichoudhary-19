@@ -49,7 +49,9 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 - [Fixed inconsistency in appearance of input field](https://github.com/warmachine028/nike/pull/51)  [Bug 🐞] on [Warmachine028-Nike](https://github.com/warmachine028/nike)
 - [Added a 'go to top' FAB](https://github.com/warmachine028/nike/pull/54) [Feature💡] on [Warmachine028-Nike](https://github.com/warmachine028/nike)
 - [Restyled the Homepage and Add/Remove-Youtuber pages](https://github.com/KendallDoesCoding/youtubers-birthdays/pull/83) [Enhancement ✨] on [youtubers-birthdays](https://github.com/KendallDoesCoding/youtubers-birthdays)
-- [Added a Close icon on navbar for better UX, made links functional][Enhancement/🐛 Bug](https://github.com/marshadkhn/TinDog/pull/14) on [TinDog](https://github.com/marshadkhn/TinDog)
+- [Added a Close icon on navbar for better UX, made links functional](https://github.com/marshadkhn/TinDog/pull/14)[Enhancement/🐛 Bug] on [TinDog](https://github.com/marshadkhn/TinDog)
+- [Handled Empty Input Fields when Generating QR Codes](https://github.com/mrsudarshanrai/QR-code-generator/pull/10)][Feature💡][Bug 🐞]  on [QR-code-generator](https://github.com/mrsudarshanrai/QR-code-generator)
+- [Specified errors and handled operations with 0 output](https://github.com/Alitindrawan24/Binary-Calculator/pull/25)[Bug 🐞] on  [Binary-Calculator](https://github.com/Alitindrawan24/Binary-Calculator/)
 
 ### 🚀  Check out my projects
 - [ayushichoudhary-19/parallaxdining](https://github.com/ayushichoudhary-19/parallaxdining.github.io) - 🍔 A Dynamic Restaurant Wesbtite
