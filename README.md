@@ -22,6 +22,9 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 [![An image of @ayushichoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushichoudhary19)](https://holopin.io/@ayushichoudhary19)
    
 🔗 To know more about me, you can check out my <a href="https://ayushichoudhary-19.github.io/myportfolio"> **Portfolio Website** </a>
+### Check out my projects and open source contributions
+🔗 **Here** : https://ayushichoudhary-19.github.io/Projects/
+
 </p>
 
 <br>
