@@ -23,7 +23,7 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
    
 <!-- 🔗 To know more about me, you can check out my <a href="https://ayushichoudhary-19.github.io/myportfolio"> 
 **Portfolio Website** </a> -->
-### Check out my projects and open source contributions
+### Check out my projects and open-source contributions
 🔗 **Here** : https://ayushichoudhary-19.github.io/Projects/
 
 </p>
@@ -70,6 +70,17 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 -->
 
 ### 🛠️ Languages and Tools
+
+
+## Languages and Tools
+
+<!--
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,mysql,github,cpp,py,vscode&perline=9" />
+  </a>
+</p>
+-->
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin: 10px;">
