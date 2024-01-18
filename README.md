@@ -4,7 +4,7 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/ge/ekyAyushi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
+<!--    <a href="https://twitter.com/hi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a> -->
 </p>
 
 <div align="center">
@@ -23,8 +23,8 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
    
 <!-- 🔗 To know more about me, you can check out my <a href="https://ayushichoudhary-19.github.io/myportfolio"> 
 **Portfolio Website** </a> -->
-### Check out my projects and open-source contributions
-🔗 **Here** : https://ayushichoudhary-19.github.io/Projects/
+### Check out my portfolio
+🔗 **Here** : https://ayushichoudhary-19.github.io/myportfolio/
 
 </p>
 
