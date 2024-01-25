@@ -40,8 +40,6 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 <div align="center">
 
    <img src="https://github-readme-stats.vercel.app/api?username=ayushichoudhary-19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width:51%"/>
-   
- 
 </div>
 
 <br>
