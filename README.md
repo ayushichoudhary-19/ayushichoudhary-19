@@ -12,7 +12,7 @@
    <h4>⚡ I’m interested in Coding, Web Designing and Development. ⚡</h4>
 </div>
 
-<br>
+
 <br>
 
 <p>
