@@ -74,7 +74,7 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,firebase,appwrite,mysql,cpp,py,git,github,vscode,figma,canva&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,firebase,appwrite,mysql,cpp,py,git,github,vscode,figma,canva&perline=8" />
   </a>
 </p>
 
