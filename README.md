@@ -72,14 +72,13 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 
 ## Languages and Tools
 
-<!--
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,mysql,github,cpp,py,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,appwrite,mysql,cpp,py,github,vscode&perline=9" />
   </a>
 </p>
--->
 
+<!--
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin: 10px;">
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin: 10px;">
@@ -94,6 +93,8 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="margin: 10px;">
   <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;">
 </p>
+-->
+
 <br>
 
 <br>
