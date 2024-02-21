@@ -93,8 +93,6 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 
 <br>
 
-<br>
-
 <div align="center">
    
 ### 📫 Love what I do? 
