@@ -15,7 +15,7 @@
 <br>
 
 <div>
-   <img align="right" width=400px src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+   <img align="right" width=350px src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 <div>
 
 - Hello folks, I'm a Frontend React Developer 🚀 and Computer Science student at IGDTUW, MCA 📚.
