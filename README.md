@@ -4,26 +4,36 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/ayushi-choudhary-7688b91ba/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<!-- <a href="https://twitter.com/geekyAyushi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a> 
-</p> -->
+    <a href="https://twitter.com/geekyAyushi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a> 
+</p> 
 
 <div align="center">
    <h3> 👩‍💻 Computer Science Student | 💻 Front End Developer | UI/UX | 🛸 India  </h3>
-   <h4>⚡ I’m interested in Coding, Web Designing and Development. ⚡</h4>
 </div>
 
 
 <br>
 
 <p>
-Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTUW 📚. I'm on my journey to become a skilled Software Developer ⚙️. I'm passionate about Anime 🎮 and love sharing updates about my work, thoughts, and experiences. Let's connect and explore the world of technology together!
-   
+   <img align="right" width=450px src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+
+- Hello folks, I'm a Frontend React Developer 🚀 and Computer Science student at IGDTUW, MCA 📚.
+- Engrossed in Coding ⚡, Web Designing, and Development.
+- Currently learning Node.js and  🐳 Docker.
+- I'm fluent in C++ and weave magic with 💛 JavaScript 💛.
+- Interested in working with 💡 individuals who have genuine passion for various developer tools. 
+- Eager to collaborate on meaningful projects that create a real difference 💞️.
+- Reach me at 📫 mouryakash883@gmail.com / [Other links](https://linktr.ee/geekyAyushi)
+
+<!--
 ### HACTOBERFEST-23!   
 [![An image of @ayushichoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushichoudhary19)](https://holopin.io/@ayushichoudhary19)
    
 <!-- 🔗 To know more about me, you can check out my <a href="https://ayushichoudhary-19.github.io/myportfolio"> 
 **Portfolio Website** </a> -->
-### Check out my portfolio
+
+
+###      Check out my portfolio
 🔗 **Here** : https://ayushichoudhary-19.github.io/myportfolio/
 
 </p>
@@ -70,7 +80,7 @@ Hello folks, I'm a Frontend Developer 🚀 and Computer Science student at IGDTU
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,firebase,appwrite,mongodb,mysql,nodejs,postman,cpp,py,java,git,github,vscode,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,firebase,appwrite,mongodb,mysql,nodejs,express,postman,docker,cpp,py,java,git,github,vscode,figma&perline=8" />
   </a>
 </p>
 
