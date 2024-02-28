@@ -14,8 +14,9 @@
 
 <br>
 
-<p>
+<div>
    <img align="right" width=450px src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+<div>
 
 - Hello folks, I'm a Frontend React Developer 🚀 and Computer Science student at IGDTUW, MCA 📚.
 - Engrossed in Coding ⚡, Web Designing, and Development.
@@ -25,6 +26,8 @@
 - Eager to collaborate on meaningful projects that create a real difference 💞️.
 - Reach me at 📫 mouryakash883@gmail.com / [Other links](https://linktr.ee/geekyAyushi)
 
+</div>
+</div>
 <!--
 ### HACTOBERFEST-23!   
 [![An image of @ayushichoudhary19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushichoudhary19)](https://holopin.io/@ayushichoudhary19)
