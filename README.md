@@ -24,7 +24,7 @@
 - I'm fluent in C++ and weave magic with 💛 JavaScript 💛.
 - Interested in working with 💡 individuals who have genuine passion for various developer tools. 
 - Eager to collaborate on meaningful projects that create a real difference 💞️.
-- Reach me at 📫 mouryakash883@gmail.com / [Other links](https://linktr.ee/geekyAyushi)
+- Reach me at 📫 ayushichoudhary0016@gmail.com / [Other links](https://linktr.ee/geekyAyushi)
 
 </div>
 </div>
