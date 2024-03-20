@@ -8,7 +8,7 @@
 </p> 
 
 <div align="center">
-   <h3> 👩‍💻 Computer Science Student | 💻 Front End Developer | UI/UX | 🛸 India  </h3>
+   <h3> 👩‍💻 Computer Science Student | 💻 Frontend Developer | UI/UX | 🛸 India  </h3>
 </div>
 
 
