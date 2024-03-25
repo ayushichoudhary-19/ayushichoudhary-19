@@ -83,7 +83,7 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,firebase,appwrite,mongodb,mysql,nodejs,express,postman,docker,cpp,py,java,git,github,vscode,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,next,redux,firebase,appwrite,mongodb,mysql,nodejs,express,postman,docker,cpp,py,java,git,github,vscode,figma&perline=8" />
   </a>
 </p>
 
