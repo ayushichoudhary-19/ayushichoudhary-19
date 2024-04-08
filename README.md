@@ -45,14 +45,14 @@
 
 <div style="display: flex; justify-content: space-between;">
    
- <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushichoudhary-19&mode=weekly&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width: 51%;"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushichoudhary-19&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width: 51%;"/>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19&layout=compact&theme=dark&count_private=true" style="width: 43%;"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19&layout=compact&theme=dark&count_private=true&langs_count=10" style="width: 40%;"/>
 </div>
 
 <div align="center">
 
-   <img src="https://github-readme-stats.vercel.app/api?username=ayushichoudhary-19&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width:51%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=ayushichoudhary-19&theme=dark&hide_border=false&include_all_commits=false&count_private=true" style="width:51%"/>
 </div>
 
 <br>
