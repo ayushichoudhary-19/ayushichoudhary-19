@@ -47,12 +47,12 @@
    
  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushichoudhary-19&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width: 51%;"/>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichoudhary-19&layout=compact&theme=dark&count_private=true&langs_count=10" style="width: 40%;"/>
+   <img src="https://github-readme-stats-own-pi.vercel.app/api/top-langs/?username=ayushichoudhary-19&layout=compact&theme=dark&count_private=true&langs_count=10&hide=shell" style="width: 40%;"/>
 </div>
 
 <div align="center">
 
-   <img src="https://github-readme-stats.vercel.app/api?username=ayushichoudhary-19&theme=dark&hide_border=false&include_all_commits=false&count_private=true" style="width:51%"/>
+   <img src="https://github-readme-stats-own-pi.vercel.app/api?username=ayushichoudhary-19&&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true&ring_color=79FF97" style="width:51%"/>
 </div>
 
 <br>
