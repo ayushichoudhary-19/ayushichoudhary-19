@@ -18,9 +18,9 @@
    <img align="right" width=350px src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 <div>
 
-- Hello folks, I'm a Frontend React Developer 🚀 and Computer Science student at IGDTUW, MCA 📚
+- Hello folks, I'm a Frontend Developer 🚀 and a student at IGDTUW, MCA 📚
 - Engrossed in Coding ⚡, Web Designing, and Development
-- Currently learning Node.js and  🐳 Docker
+- Currently learning backend in nodejs
 - I'm fluent in C++ and weave magic with 💛 JavaScript 💛
 - Interested in working with 💡 individuals who have genuine passion for various developer tools 
 - Eager to collaborate on meaningful projects that create a real difference 💞️
