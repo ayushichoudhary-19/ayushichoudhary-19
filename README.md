@@ -21,8 +21,7 @@
 - Hello folks, I'm a Frontend Developer 🚀 and a student at IGDTUW, MCA 📚
 - Engrossed in Coding ⚡, Web Designing, and Development
 - Currently learning backend in nodejs
-- I'm fluent in C++ and weave magic with 💛 JavaScript 💛
-- Interested in working with 💡 individuals who have genuine passion for various developer tools 
+- I'm fluent in C++ and weave magic with 💛 JavaScript 
 - Eager to collaborate on meaningful projects that create a real difference 💞️
 - Reach me at 📫 ayushichoudhary0016@gmail.com / [Other links](https://linktr.ee/geekyAyushi)
 
