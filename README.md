@@ -17,7 +17,7 @@
 
 <br>
 
--  🚀 Hello folks, I'm a Frontend Developer and a final year student at IGDTUW, MCA
+-  🚀 Hello folks, I'm a Full-Stack Developer and a final year student at IGDTUW, MCA
 - ⚡ Engrossed in Coding, Web Designing, and Development
 - 💛 I weave magic with JavaScript
 - 💞️ Eager to collaborate on meaningful projects that create a real difference
