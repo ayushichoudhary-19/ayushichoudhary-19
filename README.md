@@ -23,7 +23,7 @@
 - 💞️ Eager to collaborate on meaningful projects that create a real difference
 - 🎹 Whether it's code or chords, I’m all about the keys
 - 📫 Reach me at  ayushichoudhary0016@gmail.com / [Other links](https://ayushi-links.vercel.app)
-- 🔗 Check out my portfolio: https://ayushichoudhary-19.github.io/myportfolio/
+- 🔗 Check out my portfolio: [https://myportfolio-6bx5.vercel.app/](https://myportfolio-6bx5.vercel.app/)
 
 </div>
 </div>
